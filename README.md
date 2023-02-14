@@ -7,3 +7,6 @@ In the [seconed lesson](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Ac
 
 ### Lesson 3 + 4: Multi-Qubit Gates
 In the [third lesson](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Activities/blob/main/Lecture/MultipleQubitGatesPart1.ipynb) and [fourth lesson](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Activities/blob/main/Lecture/MultiQubitGatesPart2.ipynb) we will go over the few most common multi-qubit gates and their usages. There are 2 problems each in [assignment 2](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Activities/tree/main/Assignment_2) and in [assignment 3](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Activities/tree/main/Assignment_3). Please remember to submit your assignments to discord.
+
+### Running your code on Microsoft Azure
+Please contact Anderson Xu to get invited to the Purdue IQPARC Microsoft Azure Quantum Workspace. Upload [this](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Activities/blob/main/Lecture/QiskitTest.ipynb) file to the workspace and run to see how to run Qiskit on Azure.
