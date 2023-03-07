@@ -10,3 +10,6 @@ In the [third lesson](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Acti
 
 ### Running your code on Microsoft Azure
 Please contact Anderson Xu to get invited to the Purdue IQPARC Microsoft Azure Quantum Workspace. Upload [this](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Activities/blob/main/Lecture/QiskitTest.ipynb) file to the workspace and run to see how to run Qiskit on Azure.
+
+### Lesson 5: Grover's Algorithm
+In the [fifth lesson](https://github.com/IQPARC/IQPARC-Spring-2023-Learning-Activities/blob/main/Lecture/Grover's%20Algorithm.ipynb) we will combine everything we have learned so far and discuss our first quantum algorithm!
